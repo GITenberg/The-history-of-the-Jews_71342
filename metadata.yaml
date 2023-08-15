@@ -1,11 +1,16 @@
 _repo: The-history-of-the-Jews_71342
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71342-h/images/cover.jpg
 creator:
   author:
     agent_name: Deutsch, Gotthard
     gutenberg_agent_id: '56184'
     url: http://www.gutenberg.org/2009/agents/56184
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71342#The-history-of-the-Jews
 gutenberg_issued: '2023-08-04'
 identifiers:
   gutenberg: '71342'
